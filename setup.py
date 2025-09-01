@@ -8,7 +8,7 @@ with open("README.md", "r", encoding="utf-8") as fh:
 
 
 setuptools.setup(
-    name="Text-Summarizer",
+    name="textSummarizer",
     version="0.0.0",
     author="Mohamed Walid",
     author_email="mo.waleedddd@gmail.com",

@@ -5,7 +5,7 @@ import logging
 logging.basicConfig(level=logging.INFO, format='[%(asctime)s] : %(message)s')
 
 
-project_name = "Text-Summarizer"
+project_name = "textSummarizer"
 
 list_of_files = [
     ".github/workflows/.gitkeep",          # GitHub Actions workflow file      .gitkeep -> to force keep empty folders as github not track empty folders
